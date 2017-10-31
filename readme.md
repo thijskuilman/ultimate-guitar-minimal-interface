@@ -1,0 +1,1 @@
+This Chrome extension removes popups in Ultimate Guitar. It also removes all unnecessary layout elements, which results in a minimal design. In order to run the extension, you will need to run Chrome in development mode. To learn more about this, visit: https://developer.chrome.com/extensions/faq#faq-dev-01
