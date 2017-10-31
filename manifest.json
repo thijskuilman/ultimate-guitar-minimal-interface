@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+
+  "name": "Ultimate Guitar Minimalistic interface",
+  "description": "A clean and minimalistic look for Ultimate Guitar.",
+  "version": "1.0",
+
+  "content_scripts": [{
+    "css": ["style.css"],
+    "js": ["content.js"],
+    "matches": ["https://tabs.ultimate-guitar.com/*", "https://www.ultimate-guitar.com/*"]
+  }]
+
+}
